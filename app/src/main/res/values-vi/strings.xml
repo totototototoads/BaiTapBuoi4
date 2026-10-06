@@ -5,9 +5,6 @@
     <string name="title_add_student">Thêm Sinh viên Mới</string>
     <string name="title_edit_student">Sửa Thông tin Sinh viên</string>
 
-    <string name="student_count">Tổng số sinh viên: %d</string>
-    <string name="hint_search">Tìm kiếm theo tên hoặc MSSV...</string>
-
     <string name="label_name">Họ và tên</string>
     <string name="label_student_id">Mã số SV</string>
     <string name="label_email">Email</string>
@@ -23,7 +20,7 @@
     <string name="btn_delete">Xóa</string>
     <string name="btn_save">Lưu</string>
     <string name="btn_close">Đóng</string>
-    <string name="btn_cancel">Hủy</string>
+    <string name="btn_cancel">Cancel</string>
     <string name="btn_yes">Có</string>
     <string name="btn_no">Không</string>
     <string name="btn_pick_image">Chọn từ thiết bị</string>

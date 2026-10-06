@@ -5,9 +5,6 @@
     <string name="title_add_student">Add New Student</string>
     <string name="title_edit_student">Edit Student Info</string>
 
-    <string name="student_count">Total Students: %d</string>
-    <string name="hint_search">Search by name or MSSV...</string>
-
     <string name="label_name">Full Name</string>
     <string name="label_student_id">Student ID</string>
     <string name="label_email">Email</string>
