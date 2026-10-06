@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Student Management</string>
+    <string name="title_student_list">Student Management</string>
+    <string name="title_student_detail">Student Details</string>
+    <string name="title_add_student">Add New Student</string>
+    <string name="title_edit_student">Edit Student Info</string>
+
+    <string name="student_count">Total Students: %d</string>
+    <string name="hint_search">Search by name or MSSV...</string>
+
+    <string name="label_name">Full Name</string>
+    <string name="label_student_id">Student ID</string>
+    <string name="label_email">Email</string>
+    <string name="label_avatar">Avatar Image</string>
+
+    <string name="hint_name">Enter full name</string>
+    <string name="hint_student_id">Enter student ID (MSSV)</string>
+    <string name="hint_email">Enter email address</string>
+    <string name="hint_avatar">Enter avatar URL or choose file</string>
+
+    <string name="btn_add">Add New Student</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="btn_pick_image">Choose from Device</string>
+
+    <string name="confirm_edit_title">Confirm Edit</string>
+    <string name="confirm_edit_message">Do you want to edit this student\'s info?</string>
+    <string name="confirm_add_title">Confirm Add</string>
+    <string name="confirm_add_message">Do you want to add this new student?</string>
+    <string name="confirm_delete_title">Confirm Delete</string>
+    <string name="confirm_delete_message">Do you want to delete this student\'s info?</string>
+
+    <string name="msg_fill_required">Please fill in Name and Student ID!</string>
+    <string name="msg_student_saved">Student saved successfully!</string>
+    <string name="msg_student_deleted">Student deleted successfully!</string>
+    <string name="empty_list">No students found. Tap "Add New Student" to add one.</string>
+</resources>

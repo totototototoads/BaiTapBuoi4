@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Quản lý Sinh viên</string>
+    <string name="title_student_list">Quản lý Sinh viên</string>
+    <string name="title_student_detail">Thông tin Chi tiết Sinh viên</string>
+    <string name="title_add_student">Thêm Sinh viên Mới</string>
+    <string name="title_edit_student">Sửa Thông tin Sinh viên</string>
+
+    <string name="student_count">Tổng số sinh viên: %d</string>
+    <string name="hint_search">Tìm kiếm theo tên hoặc MSSV...</string>
+
+    <string name="label_name">Họ và tên</string>
+    <string name="label_student_id">Mã số SV</string>
+    <string name="label_email">Email</string>
+    <string name="label_avatar">Ảnh Avatar</string>
+
+    <string name="hint_name">Nhập họ và tên sinh viên</string>
+    <string name="hint_student_id">Nhập mã số sinh viên (MSSV)</string>
+    <string name="hint_email">Nhập email sinh viên</string>
+    <string name="hint_avatar">Nhập link ảnh hoặc chọn từ thiết bị</string>
+
+    <string name="btn_add">Thêm mới</string>
+    <string name="btn_edit">Sửa</string>
+    <string name="btn_delete">Xóa</string>
+    <string name="btn_save">Lưu</string>
+    <string name="btn_close">Đóng</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_yes">Có</string>
+    <string name="btn_no">Không</string>
+    <string name="btn_pick_image">Chọn từ thiết bị</string>
+
+    <string name="confirm_edit_title">Xác nhận sửa</string>
+    <string name="confirm_edit_message">Bạn có muốn sửa thông tin SV không?</string>
+    <string name="confirm_add_title">Xác nhận thêm</string>
+    <string name="confirm_add_message">Bạn có muốn thêm sinh viên này không?</string>
+
+    <string name="confirm_delete_title">Xác nhận xóa</string>
+    <string name="confirm_delete_message">Bạn có muốn xóa thông tin SV không?</string>
+
+    <string name="msg_fill_required">Vui lòng nhập Họ tên và MSSV!</string>
+    <string name="msg_student_saved">Đã lưu thông tin sinh viên!</string>
+    <string name="msg_student_deleted">Đã xóa thông tin SV thành công!</string>
+    <string name="empty_list">Chưa có sinh viên nào. Bấm "Thêm mới" để tạo sinh viên.</string>
+</resources>
